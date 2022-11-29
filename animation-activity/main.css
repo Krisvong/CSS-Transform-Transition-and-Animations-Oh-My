@@ -10,6 +10,7 @@ body  {
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 
 .hamburger {
@@ -20,6 +21,8 @@ body  {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+ 
+  
 }
 
 .hamburger div {
@@ -27,6 +30,7 @@ body  {
   height: 10px;
   width: 70%;
   margin: auto;
+  
 }
 
 li {
@@ -38,7 +42,12 @@ a {
   text-decoration: none;
   color: rebeccapurple;
   text-shadow: 1px 1px 2px darkgrey;
+  
 }
 a:hover {
-  color: ghostwhite;
+  color: ghostwhite; 
+ 
 }
+
+
+
